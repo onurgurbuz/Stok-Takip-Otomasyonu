@@ -7,7 +7,9 @@ Java SE  ile geliştirilmiştir.
 Arayüz Java Swing ile geliştirilmiştir.
 MVC mimari deseni kullanılmıştır.
 Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.
-<br><b>Durum Diyagramı:</b>
+
+
+<b>Durum Diyagramı:</b>
 <a href="http://hizliresim.com/JpMONE"><img src="http://i.hizliresim.com/JpMONE.png" /></a>
 
 <b>Sınıf Diyagramı:</b>
