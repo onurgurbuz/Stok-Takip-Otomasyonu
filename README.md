@@ -9,7 +9,7 @@ MVC mimari deseni kullanılmıştır.
 Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.
 
 
-<b>Durum Diyagramı:</b>
+
 <a href="http://hizliresim.com/JpMONE"><img src="http://i.hizliresim.com/JpMONE.png" /></a>
 
 <b>Sınıf Diyagramı:</b>
