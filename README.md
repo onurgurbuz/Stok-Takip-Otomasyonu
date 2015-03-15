@@ -6,7 +6,7 @@ Java ile geliştirilen Stok Takip Otomasyonu.<br><b>Blog:</b> http://onurgurbuz.
 Java SE  ile geliştirilmiştir.
 Arayüz Java Swing ile geliştirilmiştir.
 MVC mimari deseni kullanılmıştır.
-Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.
+Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.<br><b>Durum Diyagramı: </b>
 
 
 
