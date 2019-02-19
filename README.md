@@ -20,26 +20,22 @@ Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.<br><b>Durum Diy
 
 <b>Programın Ekran Görüntüleri:</b>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/1.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/1.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/2.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/2.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/3.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/3.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/4.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/4.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/5.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/5.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/6.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/6.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/7.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/7.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/8.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/8.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/9.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/9.jpg"/></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/10.png"/></a>
-
-
-
-
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/10.jpg"/></a>
