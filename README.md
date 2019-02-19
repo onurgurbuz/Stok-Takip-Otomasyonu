@@ -10,35 +10,35 @@ Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.<br><b>Durum Diy
 
 
 
-<a href="http://hizliresim.com/JpMONE"><img src="http://i.hizliresim.com/JpMONE.png" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/durumDiyagramı.png"/></a>
 
 <b>Sınıf Diyagramı:</b>
-<a href="http://hizliresim.com/XBjEq7"><img src="http://i.hizliresim.com/XBjEq7.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/sınıfDiyagramı.png"/></a>
 
 <b>Veritabanı Diyagramı:</b>
-<a href="http://hizliresim.com/LpXOgj"><img src="http://i.hizliresim.com/LpXOgj.png" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/veritabanıDiyagramı.png"/></a>
 
 <b>Programın Ekran Görüntüleri:</b>
 
-<a href="http://hizliresim.com/Dlry4O"><img src="http://i.hizliresim.com/Dlry4O.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/1.png"/></a>
 
-<a href="http://hizliresim.com/RJ4OkR"><img src="http://i.hizliresim.com/RJ4OkR.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/2.png"/></a>
 
-<a href="http://hizliresim.com/pRaGza"><img src="http://i.hizliresim.com/pRaGza.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/3.png"/></a>
 
-<a href="http://hizliresim.com/kjaXBD"><img src="http://i.hizliresim.com/kjaXBD.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/4.png"/></a>
 
-<a href="http://hizliresim.com/N5dOAX"><img src="http://i.hizliresim.com/N5dOAX.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/5.png"/></a>
 
-<a href="http://hizliresim.com/aoa13Q"><img src="http://i.hizliresim.com/aoa13Q.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/6.png"/></a>
 
-<a href="http://hizliresim.com/YvaOkZ"><img src="http://i.hizliresim.com/YvaOkZ.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/7.png"/></a>
 
-<a href="http://hizliresim.com/8l3NZ7"><img src="http://i.hizliresim.com/8l3NZ7.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/8.png"/></a>
 
-<a href="http://hizliresim.com/Dlry2v"><img src="http://i.hizliresim.com/Dlry2v.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/9.png"/></a>
 
-<a href="http://hizliresim.com/mGaJ60"><img src="http://i.hizliresim.com/mGaJ60.jpg" /></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/10.png"/></a>
 
 
 
