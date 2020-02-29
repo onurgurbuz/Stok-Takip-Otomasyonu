@@ -10,32 +10,32 @@ Veritabanı Mysql olup Hibernate teknolojisi kullanılmıştır.<br><b>Durum Diy
 
 
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/durumDiyagramı.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/durumDiyagramı.png"></a>
 
 <b>Sınıf Diyagramı:</b>
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/sınıfDiyagramı.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/s%C4%B1n%C4%B1fDiyagram%C4%B1.jpg"></a>
 
 <b>Veritabanı Diyagramı:</b>
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/veritabanıDiyagramı.png"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/veritabanıDiyagramı.png"></a>
 
 <b>Programın Ekran Görüntüleri:</b>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/1.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/1.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/2.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/2.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/3.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/3.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/4.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/4.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/5.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/5.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/6.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/6.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/7.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/7.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/8.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/8.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/9.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/9.jpg"></a>
 
-<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/10.jpg"/></a>
+<img src="https://github.com/onurgurbuz/Stok-Takip-Otomasyonu/blob/master/images/10.jpg"></a>
